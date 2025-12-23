@@ -1,5 +1,5 @@
 ---
-title: lobe.ChrisL64.me
+title: The Loberary
 description: A chrisl64.me brain production
 tags:
   - beta
