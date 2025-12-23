@@ -8,24 +8,25 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "ChrisL64's Loberary",
+    pageTitleSuffix: " | brainzzz",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      // @ts-ignore
+      provider: null,
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "chrisl64squares.github.io/loberary",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Lexend",
+        body: "Public Sans",
+        code: "Source Code Pro",
       },
       colors: {
         lightMode: {
