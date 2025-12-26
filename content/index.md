@@ -1,13 +1,9 @@
 ---
 title: The Loberary
-description: A chrisl64.me brain production
-tags:
-  - beta
-  - flurb
-date: 2025-12-23
+description: inside ChrisL64
+tags: []
+created: 2025-12-23T09:31:33-08:00
+modified: 2025-12-26T09:50:28-08:00
+published: 2025-12-23
 ---
-	# Hello
 
-World. 
-
-Let's link to [[another page]]
