@@ -10,3 +10,5 @@ published: 2025-12-23
 # What's New
 
 - [[Reading Log]]
+- [[reading/Reading Log]]
+- 
