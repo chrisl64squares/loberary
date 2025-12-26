@@ -9,7 +9,7 @@ published: 2025-12-23
 
 # What's New
 
-- deploy.yml change test 
+- did I fix the deploy problem?
 - Link Test
 	- [[Reading Log]]
 	- [[reading/Reading Log]]
