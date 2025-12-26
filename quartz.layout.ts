@@ -23,8 +23,8 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta({ showReadingTime: false }),
-    Component.TagList(),
   ],
+  afterBody: [ Component.TagList() ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
