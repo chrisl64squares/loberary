@@ -1,12 +1,12 @@
 ---
-title: Rumors of My Demise
+title: Rumors of My Demise (Evan Dando & Jim Rulan)
 description: Evan Dando's autobiography, written by Jim Ruland
 tags:
   - reading-note
 book-author: Evan Dando & Jim Ruland
 book-pubdate: "2025"
 created: 2025-12-23T17:53:22-08:00
-modified: 2025-12-26T10:03:49-08:00
+modified: 2025-12-26T15:05:21-08:00
 published: 2025-12-23
 reading-rec: 👎
 reading-status: WNF

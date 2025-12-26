@@ -144,4 +144,4 @@ I rarely stop reading a book with prejudice, but sometimes I just can’t envisi
 - 2005-09-01| _Luna: New Moon_ (Ian McDonald) #reading/WNF
 - 2025-09-06 | _The Secret Generations_ (John Gardner) #reading/WNF
 - 2025-11-02 | _Live and Let Die_ (Ian Fleming) #reading/WNF
-- 2025-12-13 | _[[Rumors of My Demise (Evan Dando & Jim Rulan)]]_ (Evan Dando & Jim Ruland) #reading/WNF|
+- 2025-12-13 | _[[Rumors of My Demise]]_ (Evan Dando & Jim Ruland) #reading/WNF|
