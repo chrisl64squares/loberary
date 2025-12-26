@@ -9,8 +9,14 @@ published: 2025-12-23
 
 # What's New
 
+<<<<<<< HEAD
 - did I fix the deploy problem?
 - Link Test
 	- [[Reading Log]]
 	- [[reading/Reading Log]]
 - 
+=======
+- [[Reading Log]]
+- [[reading/Reading Log]]
+- 
+>>>>>>> parent of 7992002 (Quartz sync: Dec 26, 2025, 1:15 PM)
