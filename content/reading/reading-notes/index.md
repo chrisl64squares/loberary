@@ -1,5 +1,7 @@
 ---
-created: 2025-12-26T15:06:05-08:00
-modified: 2025-12-26T15:08:41-08:00
 title: Reading Notes
+aliases:
+  - reading-notes
+created: 2025-12-26T15:06:05-08:00
+modified: 2025-12-26T15:28:39-08:00
 ---
