@@ -9,6 +9,7 @@ published: 2025-12-23
 
 # What's New
 
-- [[Reading Log]]
-- [[reading/Reading Log]]
+- Link Test
+	- [[Reading Log]]
+	- [[reading/Reading Log]]
 - 
