@@ -1,5 +1,5 @@
 ---
-title: Rumors of My Demise  (Evan Dando & Jim Ruland)
+title: Rumors of My Demise
 description: Evan Dando's autobiography, written by Jim Ruland
 tags:
   - reading-note
