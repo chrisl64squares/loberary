@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.startsWith("reading/reading-notes/")
+        - file.name != "index"
+        - file.ext == "md"
+    order:
+      - reading-date
+      - book-title
+      - book-author
+      - book-pubdate
+      - reading-rec
+      - reading-status
+    sort:
+      - property: book-title
+        direction: ASC

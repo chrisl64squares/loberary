@@ -1,10 +1,8 @@
 ---
 title: 2025 in Lists
 created: 2025-12-28T15:03:42-08:00
-modified: 2025-12-28T15:10:52-08:00
+modified: 2025-12-28T15:35:41-08:00
 ---
-
-# 2025 Music in Lists
 
 [*Reader beware: I don’t go on at length about every album the way I do the first few, but that doesn’t necessarily mean anything I say will mak sense for you!*]
 
