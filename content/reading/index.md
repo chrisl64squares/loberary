@@ -9,5 +9,5 @@ modified: 2025-12-26T15:24:40-08:00
 published: 2025-12-23
 ---
 
-- [[log|Reading Log]]
+- [[Log|Reading Log]]
 	- [[reading-notes/|Reading Notes]]

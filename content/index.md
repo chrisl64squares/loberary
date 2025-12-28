@@ -7,6 +7,3 @@ modified: 2025-12-26T14:59:12-08:00
 published: 2025-12-23
 ---
 
-# What's New
-
-- Blue Topaz?
