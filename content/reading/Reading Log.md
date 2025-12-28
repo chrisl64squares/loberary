@@ -5,7 +5,7 @@ tags:
   - books
   - reading
 created: 2025-12-23T09:44:29-08:00
-modified: 2025-12-28T15:19:20-08:00
+modified: 2025-12-28T15:41:33-08:00
 published: 2025-12-23
 ---
 
@@ -15,7 +15,7 @@ published: 2025-12-23
 | :---------: | :---------------------------------------------------: | :----------------------: |
 | ‎‏‎ NOW‏‎‏‎ | _Great American Prose Poems: From Poe to the Present_ |    David Lehman (Ed)     |
 | ‎‏‎ NOW‏‎‏‎ |                _The Way of the Writer_                |    Charles R. Johnson    |
-| 2025-12-25  |           _[[The Bee Sting (Paul Murray)]]_           |       Paul Murray        |
+| 2025-12-25  |                  _[[The Bee Sting]]_                  |       Paul Murray        |
 | 2025-12-21  |                        _1984_                         |      George Orwell       |
 | 2025-12-19  |                  _What We Can Know_                   |        Ian McEwan        |
 | 2025-12-18  |                  _The Little Prince_                  | Antoine de Saint-Exupéry |
