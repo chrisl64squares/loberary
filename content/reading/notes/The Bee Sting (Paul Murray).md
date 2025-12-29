@@ -1,12 +1,11 @@
 ---
-title: The Bee Sting
 book-author: Paul Murray
 book-pubdate: "2025"
 book-title: The Bee Sting
 reading-status: COMPLETE
 reading-rec: 👍
 created: 2025-12-28T15:15:42-08:00
-modified: 2025-12-28T21:15:14-08:00
+modified: 2025-12-28T21:19:50-08:00
 published: 2025-12-28
 reading-date: 2025-12-25
 type: reading-note

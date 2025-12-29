@@ -1,5 +1,4 @@
 ---
-title: The New Diary
 book-author: Tristine Rainer
 book-pubdate: "1978"
 book-title: The New Diary
