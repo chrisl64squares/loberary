@@ -1,3 +1,18 @@
+formulas:
+  Untitled: link(file.name, note["book-title"])
+properties:
+  formula.Untitled:
+    displayName: Title
+  note.book-author:
+    displayName: Author
+  note.reading-date:
+    displayName: Date Read
+  note.book-pubdate:
+    displayName: Pub Date
+  note.reading-rec:
+    displayName: Rec
+  note.reading-status:
+    displayName: Status
 views:
   - type: table
     name: Table
@@ -7,11 +22,15 @@ views:
         - file.path.startsWith("reading/notes")
     order:
       - reading-date
-      - book-title
+      - formula.Untitled
       - book-author
       - book-pubdate
       - reading-rec
       - reading-status
     sort:
-      - property: book-title
+      - property: reading-date
+        direction: DESC
+      - property: reading-status
         direction: ASC
+    columnSize:
+      formula.Untitled: 247

@@ -6,13 +6,13 @@ book-title: The Bee Sting
 reading-status: COMPLETE
 reading-rec: 👍
 created: 2025-12-28T15:15:42-08:00
-modified: 2025-12-28T17:17:32-08:00
+modified: 2025-12-28T19:14:56-08:00
 published: 2025-12-28
 reading-date: 2025-12-25
 type: reading-note
 ---
 
-## Thoughts
+## My Thoughts
 
 What a ride! _The Bee Sting_ first section is an easy to read depiction of an (on the way to being formerly) wealthy Irish family as seen through the eyes of teenage daughter Cass, in her final year of secondary school, eager to escape to university in Dublin. The context is grim:
 
@@ -60,7 +60,54 @@ _The Bee Sting_ is a tour de force of craft, construction, and story…a story t
 
 ### PJ
 
+> He looks down at his feet, raw and red and sorrowful. His feet look back at him like, Please don’t put us back in those runners, PJ! He sighs. I’m at my wits’ end with you, he whispers.
+> 
+> It’s not their fault, they can’t help growing. But he only got these runners two months ago and it was a really big deal then and he can imagine what Mam will say if she has to go and buy more. So he’s keeping quiet about it, only it’s not that simple because his socks have started to get blood on them which doesn’t come out in the laundry. He’s been hiding them in his locker so Mam won’t notice but sooner or later he’s going to run out, and what will happen then he doesn’t know, except that it won’t do him any favours if they end up getting divorced. Who would want a boy with infinitely expanding feet?
+> 
+> The funny thing is he knows they won’t send him to boarding school. Cass has explained it several times. Boarding school is expensive, and the whole reason they’re fighting is that they have no money. But though this all makes sense in his mind, he just can’t seem to believe it, in his heart.
+
+***
+
+> PJ continues to his own room, takes off the muddy trousers. His head pounds where Ears kneeled on him, where the barrier fell. But thankfully nothing left a mark. He smiles into the mirror. Hey, Granddad, would you like to support me in a sponsored run? It’s ten kilometres, people are mostly giving five euro per kilometre.
+> 
+> He looks like he needs a blood transfusion and a heart transplant. So much for the best way to get money is to look like you don’t need it.
+
+
+***
+
+> Here’s a fact about the universe, maybe the number one fact: it’s impossible to comprehend how much it doesn’t care about us. It’s not just that it doesn’t care about Life. It doesn’t even care about matter. Everything we think of as everything – starlight, marshmallows, frogs, basketball, electricity, every single person who ever lived and died, all the stuff there is and all the energy – that’s only a minuscule fraction of the universe. The rest of it is darkness – dark energy, dark matter, which are just words scientists use for ‘we don’t know what this is’. What we call the universe is basically a microscopic speck on this giant incomprehensible darkness, like a piece of lint on an XXXXXXXXXXL-size sweater, and life is like a nano-sized speck on that speck.
+> 
+> So when you think about it who cares about saving it, or anything in it, because basically none of it was ever even supposed to be there. Cass was right about that.
+
 ### Dickie
+
+> Maybe every era has an atrocity woven into its fabric. Maybe every society is complicit in terrible things and only afterwards gets around to pretending they didn’t know. When the kids ask, tell them that no one meant any harm.
+
+***
+
+> Dickie had never felt quite the same way about cars; he’d been regularly travel-sick as a child. Still, he’d always assumed that on graduating he would be returning home to join his father in the dealership. It had simply never crossed his mind to do otherwise.
+> 
+> Now for the first time he wondered. On his walks in the woods he tried to picture what it might be like to do something different, be someone different.
+> 
+> After the cold snap that caused such chaos in his mother’s garden the forest floor had turned white with frost, and crunched grudgingly under his boots. His leg hurt when he put weight on it, and the cold made the cuts on his face sting, but in the grey light of November the woods were even more beautiful than before. White leaves sparkled on the ground, like sequins fallen from a gown; the birds called to each other with a note of urgency, as if they were late for an appointment. There was an air of departure, of Nature clearing out for the winter. It felt like everything was too busy to pay any attention to him and he felt a great sense of relief; also because it heralded a deeper emptiness, a deeper silence.
+
+***
+
+> You find these stories oddly consoling – cosy, even, like listening to the rain fall from a warm bed. It’s as if for you the shit has already hit, the flood, the famine, whatever shape it takes. Outside, the world has drowned, and the desolation swaddles you like a blanket.
+
+***
+
+> In fact before very long stepping out of the forest and going into the house comes to feel weirdly like playing a video game. You watch the walls and furniture track past you, you watch your hands float through space, reaching up in front of you and grasping things in the cupboards which then follow the hands down through the air. When PJ appears or Imelda it’s with the same sudden, bewildering luminosity as the squirrels in the heat vision scope. Similarly, on your way back into the woods you experience the strange dissonance you used get as a boy, when after switching off your computer you’d find the movements and colours and cues of the game world still imprinted vestigially on the real.
+
+***
+
+> You will not be racked by guilt, your children will not sense any difference in you, you will not be estranged, exiled. The fact is that people do terrible things every day and the world goes on, they commit atrocities, and then resume their ordinary humdrum lives. In real terms a death is practically non-existent. It’s simply a case of seeing that, of seeing things as they are.
+> 
+> With this eerie clarity, that is akin to weightlessness, you start to make your way back. But what is the way back? In the light of the phone all you can see are trees, skeletal white and eye-socket black, teeming around you thick as the rain.
+
+
+
+
 
 [^literalol]: Literally, which is an exceptionally uncommon experience for me in a book.
 [^ambiguous]: The ending is just ambiguous enough, I discovered afterward, to inspire considerable discussion, though it seems clear enough to me

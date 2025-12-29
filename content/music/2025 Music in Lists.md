@@ -1,7 +1,7 @@
 ---
 title: 2025 in Lists
 created: 2025-12-28T15:03:42-08:00
-modified: 2025-12-28T16:15:13-08:00
+modified: 2025-12-28T19:36:08-08:00
 ---
 
 [*Reader beware: I don’t go on at length about every album the way I do the first few, but that doesn’t necessarily mean anything I say will mak sense for you!*]
@@ -129,19 +129,17 @@ Dservedly sitting near or atop many year-end lists, the only thing that keeps me
 
 ### _West End Girl_ (Lily Allen)
 
-I’m not immune to the attractions of watching a celebrity train wreck, especially captured in detailed slo-mo by a bawdy storyteller whom I already have a soft spot for. I get the kvetching but wonder if the snobberati don’t perhaps protest too much? Not to mention that some of the songs are good…so good they can actually make other LOL-ridiculous lyrics work as LOL-moving, even just moving, work. Standouts: “Pussy Palace” (yep) and “Madeline.”
+I’m not immune to the attractions of watching a celebrity train wreck, especially captured in detailed slo-mo by Lily Allen, a bawdy storyteller I already have a soft spot for. I get the kvetching about the gossipy aspects of _West End Girl_ but wonder if the snobberati don’t perhaps protest too much? Not to mention that some of the songs are good…so good they can actually make other LOL-ridiculous lyrics work as LOL-moving, even just moving, work. Standouts: “Pussy Palace” (yep) and “Madeline.”
 
 ### _Double Infinity_ (Big Thief)
 
-_Willougbby Tucker, I’ll Always Love You_ (Ethel Cain)
+_Double Infinity_ is a satisfying album that expands Big Thief’s palette while solidifying Adrianne Lenker’s place as one of the best of her generation of songwriters (and then some). Standouts: “Grandmother” and “Double Infinity.”
 
-_Shish_ (Portugal. The Man)
+### _Willougbby Tucker, I’ll Always Love You_ (Ethel Cain)
 
-_Let All There is Be Light_ (Garbage)
+Ethel Cain released two distinctly different, critically polarizing albums in 2025. _Willoughby Tucker, I’ll Always Love You_ is my keeper. There are some skips (there aren’t many 10+ minute songs I’ll suffer through), but the highs of “Fuck Me Eyes,” “Nettles,” and especially “Dust Bowl” more than carry the rest.
 
 _I’m Only F\*\*\*ing Myself_ (Lola Young)
-
-_Always Been_ Craig Finn
 
 _Cover the Mirrors_ (Ben Kweller)
 
@@ -154,6 +152,16 @@ _Welcome to My Blue Sky_ (Momma)
 _Holo Boy_ (This is Lorelei)
 
 ## Music That Landed in My Backyard
+
+Because I seem to be among a select few who noted their arrival…
+
+### _Shish_ (Portugal. The Man)
+
+I know I have an Alaska-sized soft spot for this band originally from that great state I am deeply homesick for, so what am I going to say about an album whose titles invoke familiar sights and locations from the same? But come-the-fuck on people![^andcritics] _Shish_ is a great album in its own right, a return to palatably experimental, punk- and rock- and dance- influenced forms with catchy hooks anc choruses. Highlights: “Shish” · “Tanana” · “Denali.”
+
+### _Always Been_ Craig Finn
+
+Almost as cruelly ignored as the Alaskans, the latest solo outing by Finn, lead singer and primary songwriter of _The Hold Steady_ is wearily-delivered fire. Finn leans hard into story, for which he has a demonstrably outsized penchant, and almost uniformly delivers as he tells the story of Nathan—a returning soldier, literally drinking dregs, who becomes a clergyman without a calling—and a constellation of similarly identity-conflicted and afflicted people around him. Standout tracks: “Postcards” · “People of Substance” · “Luke & Leanna” · “Fletcher’s” (save this one, or drink a little, if you’re allergic to flat-out spoken word tracks)
 
 ### _Blood on the Silver Screen_ (SASAMI)
 
@@ -179,7 +187,24 @@ The already fantastic Sharon Van Etten sounds (literally) better than ever on (l
 
 ### _More_ (Pulp)
 
-I was never super into Pulp,[^britbritpop] but I enjoy—and certainly recognize the importance of—their work. But 2025 appears to be a year of unexpectedly powerful returns. Like Clipse, with _More_ Pulp not only returned after a long (nearly 25-year!) break, but with an excellent album, but one that sits solidly among their best.[^pulpreturns]
+I was never super into Pulp,[^britbritpop] but I enjoy—and certainly recognize the importance of—their work. But 2025 appears to be a year of unexpectedly powerful returns. Like Clipse, with _More_ Pulp not only returned after a long (nearly 25-year!) break, but with an excellent album, but one that sits solidly among their best.[^pulpreturns] Favorite tracks: “Slow Jam” · “The Hymn of the North” · “Tina”
+
+### _Let All That We Imagine Be The Light_ (Garbage)
+
+Garbage has been in the game for more than 30 years now, and this may be there best in nearly two-dozen of them. An unashamed return to grunge pop, this time with an edge honed by years and clearly a dollop of experience with ageism, _LATWIBtL_ is a great listen. Standout tracks: “Sisyphus” · “Radical” · “There’s No Future In Optimism”
+
+### _The Life of a Showgirl_ (Tay-Tay)
+
+I could’ve put _TLoaSG_ either of the first two categories.
+
+1. Music that landed because it became the best-selling album of 2025 on its first day of release, already 5x-platinum, the most pre-saved album on Spotify, set the record for single-day streaming on all the major platforms, Billboard’s #1 album for 11 weeks, etc.
+2. Music that Landed in My Backyard because the critical takes are replete with bad-faith takes, reasoning from conclusions desired for all kinds of extra-musical reasons. In an alternate timeline where _TLoaSG_ was released instead of 1989, it would be just as well-loved.
+
+But I’m putting it here because this album is fun, footloose, and a banger. Imperfect? Sure, but even the weakest songs aren’t half as bad as some vocal critics who finally feel safe to complain are making them out to be. 
+
+Believe me: it pains me to be in the position of defending any billionaire. I’m just talking about the music. There are more than a few folks who should try that.
+
+My favorite tracks: “Opalite” · “Ruin the Friendship” · “The Fate of Ophelia” · “Father Figure”
 
 ## Music I Watched Land Elsewhere
 
@@ -190,6 +215,10 @@ I’m not being contrarian, I swear. _LUX_ may well be a perfect pop album, as I
 ### _Getting Killed_ (Geese)
 
 This opinion might get *me* killed,[^killed] but I'm not hearing how _Getting Killed_ is better than _3D Country_ (or Cameron Winter's 2024 solo _Heavy Metal_ for that maatter. I'm loving the rock mini-renaissance, though, long may it—and Geese—reign.
+
+### _Addison_ (Addison Rae)
+
+OK…I guess? Was this even the best album released by a (Tate Mc)Rae this year? You do you, babes, as Yasi Salek might say.
 
 [^only]: Believe it or not, according to Last.fm, the music I listened to most in 2025 has been predominantly from earlier years…often *much* earlier.
 [^needless]: Not really needless, I guess, since I’m saying it.
@@ -205,6 +234,7 @@ This opinion might get *me* killed,[^killed] but I'm not hearing how _Getting Ki
 [^pigeonometry]: I am required here to mention possibly my favorite Aes track: “Pigeonometry.” If you haven’t heard it, stop reading this and go do that.
 [^concept]: Having suffered the childhood indignity of repeated forced exposure to _Yes_, _King Crimson_, _Rush_, and _Emerson, Lake, & Palmer_ by a (literally) insane uncle (on my adopted father’s side; none of those genes for me), I like very few concept albums and usually prefer my conceptual musical frames so loose they might better be called conceits.
 [^speculating]: Of course I can help it, I’m simply not going to. And this won’t be the first time.
+[^andcritics]: And critics.
 [^solo]: Long live the guitar solo, whose lamented disappearance I blame squarely on the group of grunge and indie acts I love most
 [^britbritpop]: Or most of the Brit Pop proper bands, a movement that strikes me as having had considerable influence on the American scene without for the most part ever actually being popular here.
 [^pulpreturns]: _Different Class_ and _This is Hardcore_ of course.

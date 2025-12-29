@@ -5,7 +5,7 @@ tags:
   - books
   - reading
 created: 2025-12-23T09:44:29-08:00
-modified: 2025-12-28T17:19:48-08:00
+modified: 2025-12-28T21:07:41-08:00
 published: 2025-12-23
 ---
 
@@ -15,11 +15,11 @@ published: 2025-12-23
 | :---------: | :---------------------------------------------------: | :----------------------: |
 | ‎‏‎ NOW‏‎‏‎ | _Great American Prose Poems: From Poe to the Present_ |    David Lehman (Ed)     |
 | ‎‏‎ NOW‏‎‏‎ |                _The Way of the Writer_                |    Charles R. Johnson    |
-| 2025-12-25  |                  _[[The Bee Sting (Paul Murray)]]_                  |       Paul Murray        |
+| 2025-12-25  |                  _[[The Bee Sting]]_                  |       Paul Murray        |
 | 2025-12-21  |                        _1984_                         |      George Orwell       |
 | 2025-12-19  |                  _What We Can Know_                   |        Ian McEwan        |
 | 2025-12-18  |                  _The Little Prince_                  | Antoine de Saint-Exupéry |
-| 2025-12-12  |                    _The New Diary_                    |     Tristine Rainer      |
+| 2025-12-12  |                  _[[The New Diary]]_                  |     Tristine Rainer      |
 | 2025-12-10  |           _The Book of Strange New Things_            |       Michel Faber       |
 | 2025-12-06  |            _New American Writing_ (No. 34)            |         Various          |
 | 2025-12-05  |       _ACM (Another Chicago Magazine_ (No. 36)        |         Various          |
@@ -43,7 +43,7 @@ published: 2025-12-23
 | 2025-10-21  |                    _Lonesome Dove_                    |      Larry McMurtry      |
 | 2025-10-20  |               _Fever of Unknown Origin_               |     Campbell McGrath     |
 | 2025-10-20  |                     _Safekeeping_                     |      Abigail Thomas      |
-| 2025-10-19  |                      _Spy Line _                      |       Len Deighton       |
+| 2025-10-19  |                      _Spy Line_                       |       Len Deighton       |
 | 2025-10-18  |                     _Intermezzo_                      |       Sally Rooney       |
 | 2025-10-14  |                       _Please_                        |      Jericho Brown       |
 | 2025-10-13  |                       _Orbital_                       |     Samantha Harvey      |
@@ -144,4 +144,4 @@ I rarely stop reading a book with prejudice, but sometimes I just can’t envisi
 - 2005-09-01| _Luna: New Moon_ (Ian McDonald) #reading/WNF
 - 2025-09-06 | _The Secret Generations_ (John Gardner) #reading/WNF
 - 2025-11-02 | _Live and Let Die_ (Ian Fleming) #reading/WNF
-- 2025-12-13 | _[[Rumors of My Demise (Evan Dando & Jim Ruland)]]_ (Evan Dando & Jim Ruland) #reading/WNF|
+- 2025-12-13 | _[[Rumors of My Demise]]_ (Evan Dando & Jim Ruland) #reading/WNF|
