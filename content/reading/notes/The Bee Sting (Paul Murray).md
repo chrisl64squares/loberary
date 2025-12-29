@@ -1,13 +1,15 @@
 ---
-title: The Bee Sting (Paul Murray)
+title: The Bee Sting
 book-author: Paul Murray
 book-pubdate: "2025"
 book-title: The Bee Sting
 reading-status: COMPLETE
 reading-rec: 👍
 created: 2025-12-28T15:15:42-08:00
-modified: 2025-12-28T19:14:56-08:00
+modified: 2025-12-28T21:12:35-08:00
 published: 2025-12-28
+aliases:
+  - The Bee Sting (Paul Murray)
 reading-date: 2025-12-25
 type: reading-note
 ---
@@ -72,7 +74,6 @@ _The Bee Sting_ is a tour de force of craft, construction, and story…a story t
 > 
 > He looks like he needs a blood transfusion and a heart transplant. So much for the best way to get money is to look like you don’t need it.
 
-
 ***
 
 > Here’s a fact about the universe, maybe the number one fact: it’s impossible to comprehend how much it doesn’t care about us. It’s not just that it doesn’t care about Life. It doesn’t even care about matter. Everything we think of as everything – starlight, marshmallows, frogs, basketball, electricity, every single person who ever lived and died, all the stuff there is and all the energy – that’s only a minuscule fraction of the universe. The rest of it is darkness – dark energy, dark matter, which are just words scientists use for ‘we don’t know what this is’. What we call the universe is basically a microscopic speck on this giant incomprehensible darkness, like a piece of lint on an XXXXXXXXXXL-size sweater, and life is like a nano-sized speck on that speck.
@@ -104,10 +105,6 @@ _The Bee Sting_ is a tour de force of craft, construction, and story…a story t
 > You will not be racked by guilt, your children will not sense any difference in you, you will not be estranged, exiled. The fact is that people do terrible things every day and the world goes on, they commit atrocities, and then resume their ordinary humdrum lives. In real terms a death is practically non-existent. It’s simply a case of seeing that, of seeing things as they are.
 > 
 > With this eerie clarity, that is akin to weightlessness, you start to make your way back. But what is the way back? In the light of the phone all you can see are trees, skeletal white and eye-socket black, teeming around you thick as the rain.
-
-
-
-
 
 [^literalol]: Literally, which is an exceptionally uncommon experience for me in a book.
 [^ambiguous]: The ending is just ambiguous enough, I discovered afterward, to inspire considerable discussion, though it seems clear enough to me
