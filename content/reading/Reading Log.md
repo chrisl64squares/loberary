@@ -1,9 +1,6 @@
 ---
 title: Reading Log
 description: An inconsistently maintained log of significant reading.
-tags:
-  - books
-  - reading
 created: 2025-12-23T09:44:29-08:00
 modified: 2025-12-29T13:40:36-08:00
 published: 2025-12-23
@@ -106,42 +103,42 @@ published: 2025-12-23
 
 Incomplete. I should fill in from notes in my journals… but I probably won’t!
 
-- 2025-10-01 | from _A Century of Poetry in the New Yorker_ (Kevin Young, ed) #reading/misc #reading/complete #read/ebook
-- 2025-10-02 | from _A Century of Poetry in the New Yorker_ (Kevin Young, ed) #reading/misc #reading/complete #read/ebook
-- 2025-10-02 | from “A Good Man is Hard to Find” (Flannery O’Connor) #reading/misc #reading/complete #read/print
-- 2025-10-02 | from _Collected Works_ (Lorine Niedecker) #reading/misc #reading/complete #read/ebook
-- 2025-10-05 | “Alfred, Lord Tennyson – the most Victorian laureate” (Philip Larkin) #reading/misc #reading/complete #read/online 
-- 2025-11-07 | “Pity the Monster: The Letters of John Berryman” (Jeffrey Meyers) #reading/misc #reading/complete #read/online
-- 2025-11-10 | “SPIEGEL Interview with Umberto Eco 'We Like Lists Because We Don't Want to Die'” (Umberto Eco & Susanne Beyer) #reading/misc #reading/complete #read/online
-- 2025-11-13| “Must you chew so loud? The trials of suffering from ‘misophonia’” (Samantha Weinberg) #reading/misc #reading/complete #read/online
-- 2025-11-19 | “The dawn of the post-literate society” (James Marriott) #reading/misc #reading/complete #read/online
-- 2025-11-21 | “The Strangest Letter of the Alphabet: The Rise and Fall of Yogh” (Collin Gorrie) #reading/misc #reading/complete #read/online
-- 2025-12-13 | from _Rules of the Dance_ (Mary Oliver) #reading/misc #reading/complete #read/print
-- 2025-12-13 | from _The Penguin Book of Elegy_ (Kevin Young, ed) #reading/misc #reading/complete #read/print 
+- 2025-10-01 | from _A Century of Poetry in the New Yorker_ (Kevin Young, ed) #reading/misc ✔️ #read/ebook
+- 2025-10-02 | from _A Century of Poetry in the New Yorker_ (Kevin Young, ed) #reading/misc ✔️ #read/ebook
+- 2025-10-02 | from “A Good Man is Hard to Find” (Flannery O’Connor) #reading/misc ✔️ #read/print
+- 2025-10-02 | from _Collected Works_ (Lorine Niedecker) #reading/misc ✔️ #read/ebook
+- 2025-10-05 | “Alfred, Lord Tennyson – the most Victorian laureate” (Philip Larkin) #reading/misc ✔️ #read/online 
+- 2025-11-07 | “Pity the Monster: The Letters of John Berryman” (Jeffrey Meyers) #reading/misc ✔️ #read/online
+- 2025-11-10 | “SPIEGEL Interview with Umberto Eco 'We Like Lists Because We Don't Want to Die'” (Umberto Eco & Susanne Beyer) #reading/misc ✔️ #read/online
+- 2025-11-13| “Must you chew so loud? The trials of suffering from ‘misophonia’” (Samantha Weinberg) #reading/misc ✔️ #read/online
+- 2025-11-19 | “The dawn of the post-literate society” (James Marriott) #reading/misc ✔️ #read/online
+- 2025-11-21 | “The Strangest Letter of the Alphabet: The Rise and Fall of Yogh” (Collin Gorrie) #reading/misc ✔️ #read/online
+- 2025-12-13 | from _Rules of the Dance_ (Mary Oliver) #reading/misc ✔️ #read/print
+- 2025-12-13 | from _The Penguin Book of Elegy_ (Kevin Young, ed) #reading/misc ✔️ #read/print
 
 ## Tabled
 
 I set books aside to resume later for many reasons (none of which are about quality) such as wanting to read in a different format, wait until I’ve read something else, or read in proper series order. Or I just wasn’t in the mood, but I want to remember to come back to it someday.
 
-- _American Spy_ (Lauren Wilkinson) #reading/tabled
-- _NEW MICRO: Exceptionally Short Fiction_ James Thomas & Robert Scotellaro (Editors) #reading/tabled
-- _The Power and the Glory_ (Graham Greene) #reading/tabled
-- _Very Short Stories_ by Sean Hill #reading/tabled
-- _Feel Free_ (Zadie Smith) #reading/tabled 
-- 2025-05-14 | _Karla's Choice_ (Nick Harkaway) #reading/tabled
-- 2025-05-14 | _The Prefect_ (Alastair Reynolds) #reading/tabled
-- 2025-09-07 | _Bad English_ (Ammon Shea) #reading/tabled
-- 2025-09-22 | _101 Essays That Will Change the Way You Think_ (Brianna Wiest) #reading/tabled
-- 2025-10-22 | _Everything that Rises_ (Joseph Stroud) #reading/tabled 
-- 2025-10-31 | _In Brief_ (Judith Kitchener, ed) #reading/tabled 
+- _American Spy_ (Lauren Wilkinson) 💤
+- _NEW MICRO: Exceptionally Short Fiction_ James Thomas & Robert Scotellaro (Editors) 💤
+- _The Power and the Glory_ (Graham Greene) 💤
+- _Very Short Stories_ by Sean Hill 💤
+- _Feel Free_ (Zadie Smith) 💤 
+- 2025-05-14 | _Karla's Choice_ (Nick Harkaway) 💤
+- 2025-05-14 | _The Prefect_ (Alastair Reynolds) 💤
+- 2025-09-07 | _Bad English_ (Ammon Shea) 💤
+- 2025-09-22 | _101 Essays That Will Change the Way You Think_ (Brianna Wiest) 💤
+- 2025-10-22 | _Everything that Rises_ (Joseph Stroud) 💤 
+- 2025-10-31 | _In Brief_ (Judith Kitchener, ed) 💤 
 
 ## WNF
 
 I rarely stop reading a book with prejudice, but sometimes I just can’t envision a future me who has time for these.
 
-- 2025-05-15 | _Red to Black_ (Alex Dryden) #reading/WNF
-- 2025-07-18 | _Renegade_ (Joel Shepherd) #reading/WNF
-- 2005-09-01| _Luna: New Moon_ (Ian McDonald) #reading/WNF
-- 2025-09-06 | _The Secret Generations_ (John Gardner) #reading/WNF
-- 2025-11-02 | _Live and Let Die_ (Ian Fleming) #reading/WNF
+- 2025-05-15 | _Red to Black_ (Alex Dryden) 🚫
+- 2025-07-18 | _Renegade_ (Joel Shepherd) 🚫
+- 2005-09-01| _Luna: New Moon_ (Ian McDonald) 🚫
+- 2025-09-06 | _The Secret Generations_ (John Gardner) 🚫
+- 2025-11-02 | _Live and Let Die_ (Ian Fleming) 🚫
 - 2025-12-13 | _[[Rumors of My Demise]]_ (Evan Dando & Jim Ruland) #reading/WNF|
