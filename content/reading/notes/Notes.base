@@ -3,9 +3,8 @@ views:
     name: Table
     filters:
       and:
-        - file.path.startsWith("reading/notes/")
-        - file.name != "index"
-        - file.ext == "md"
+        - type == "reading-note"
+        - file.path.startsWith("reading/notes")
     order:
       - reading-date
       - book-title
