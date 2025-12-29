@@ -19,7 +19,7 @@ published: 2025-12-23
 | 2025-12-21  |                        _1984_                         |      George Orwell       |
 | 2025-12-19  |                  _What We Can Know_                   |        Ian McEwan        |
 | 2025-12-18  |                  _The Little Prince_                  | Antoine de Saint-Exupéry |
-| 2025-12-12  |                  _[[The New Diary]]_                  |     Tristine Rainer      |
+| 2025-12-12  |                  _[[The New Diary (Tristine Rainer)]]_                  |     Tristine Rainer      |
 | 2025-12-10  |           _The Book of Strange New Things_            |       Michel Faber       |
 | 2025-12-06  |            _New American Writing_ (No. 34)            |         Various          |
 | 2025-12-05  |       _ACM (Another Chicago Magazine_ (No. 36)        |         Various          |
@@ -144,4 +144,4 @@ I rarely stop reading a book with prejudice, but sometimes I just can’t envisi
 - 2005-09-01| _Luna: New Moon_ (Ian McDonald) #reading/WNF
 - 2025-09-06 | _The Secret Generations_ (John Gardner) #reading/WNF
 - 2025-11-02 | _Live and Let Die_ (Ian Fleming) #reading/WNF
-- 2025-12-13 | _[[Rumors of My Demise]]_ (Evan Dando & Jim Ruland) #reading/WNF|
+- 2025-12-13 | _[[Rumors of My Demise (Evan Dando)]]_ (Evan Dando & Jim Ruland) #reading/WNF|

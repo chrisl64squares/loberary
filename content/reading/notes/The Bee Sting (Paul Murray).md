@@ -6,10 +6,8 @@ book-title: The Bee Sting
 reading-status: COMPLETE
 reading-rec: 👍
 created: 2025-12-28T15:15:42-08:00
-modified: 2025-12-28T21:12:35-08:00
+modified: 2025-12-28T21:15:14-08:00
 published: 2025-12-28
-aliases:
-  - The Bee Sting (Paul Murray)
 reading-date: 2025-12-25
 type: reading-note
 ---
