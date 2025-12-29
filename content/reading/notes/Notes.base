@@ -27,7 +27,6 @@ views:
       - book-pubdate
       - reading-rec
       - reading-status
-      - aliases
     sort:
       - property: reading-date
         direction: DESC

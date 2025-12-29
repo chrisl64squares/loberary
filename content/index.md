@@ -14,4 +14,3 @@ published: 2025-12-23
 - Reading
 	- [[Reading Log]]
 	- [[reading/notes/index|reading-notes]]
-- 

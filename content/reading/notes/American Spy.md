@@ -1,13 +1,13 @@
 ---
-book-author: Paul Murray
-book-pubdate: "2025"
-book-title: The Bee Sting
-reading-status: COMPLETE
-reading-rec: 👍
+book-title: American Spy
+book-author: Lauren Wilkinson
+book-pubdate: "2019"
+reading-date: 2025-07-17
+reading-status: 💤
+reading-rec: ☐
 created: 2025-12-28T15:15:42-08:00
-modified: 2025-12-28T21:19:50-08:00
+modified: 2025-12-29T13:27:43-08:00
 published: 2025-12-28
-reading-date: 2025-12-25
 type: reading-note
 ---
 
