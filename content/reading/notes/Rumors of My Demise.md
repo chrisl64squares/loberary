@@ -1,4 +1,9 @@
 ---
+tags:
+  - 👎
+  - 🚫
+  - Evan-Dando
+  - 2025-reading
 book-title: Rumors of My Demise
 book-author: Evan Dando & Jim Ruland
 book-pubdate: "2025"
@@ -6,7 +11,7 @@ reading-date: 2025-12-13
 reading-status: 🚫
 reading-rec: 👎
 created: 2025-12-23T17:53:22-08:00
-modified: 2025-12-29T13:59:20-08:00
+modified: 2025-12-29T14:03:54-08:00
 published: 2025-12-25
 type: reading-note
 ---

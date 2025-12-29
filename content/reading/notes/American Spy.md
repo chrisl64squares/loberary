@@ -1,4 +1,8 @@
 ---
+tags:
+  - 💤
+  - lauren-wilkinson
+  - 2025-reading
 book-title: American Spy
 book-author: Lauren Wilkinson
 book-pubdate: "2019"
